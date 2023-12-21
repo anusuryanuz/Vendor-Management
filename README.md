@@ -77,7 +77,7 @@ This is a Django-based Vendor Management System that handles vendor profiles, pu
 - **Vendor Performance Endpoints:**
     - `GET /api/vendors/<int:pk>/performance`: Retrieve a vendor's performance metrics.
 - **update a vendors order acknowledgement :**
-    - '/api/purchase_orders/<int:pk>/acknowledge`:
+    - '/api/purchase_orders/<int:pk>/acknowledge/`:
 
 ## over all urls
    admin/
